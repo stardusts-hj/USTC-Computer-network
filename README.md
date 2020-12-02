@@ -1,6 +1,7 @@
 # USTC-Computer-network
 中科大计算机网络实验
  exp3
+ 所有实验均在Linux下完成，使用了makefile
  利用socket实现udp和tcp的通信
  ## 文件均在exp3_ref中，使用
 
