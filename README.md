@@ -10,7 +10,7 @@
  ###    lhj          利用tcp实现了半双工通信
  ###    lhj_pthread   利用tcp和多线程pthread 实现了全双工通信
 
-exp4
+## exp4
 
 实现了基于udp的rdt可靠信息传输协议
 具体实现参考 readme.txt
